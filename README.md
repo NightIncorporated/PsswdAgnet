@@ -4,4 +4,6 @@
 
 # PsswdAgent
 
+[![Night's GitHub stats](https://github-readme-stats.vercel.app/api?username=NightIncorporated)](https://github.com/anuraghazra/github-readme-stats)
+
 
